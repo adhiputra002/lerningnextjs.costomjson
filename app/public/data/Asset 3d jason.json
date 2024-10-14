@@ -1,0 +1,38 @@
+{
+    "Asset3D":
+    [
+            {
+            "id": 1,
+            "nama_produk": "Aseet 3D Laptop Canggih",
+            "harga": 15000000,
+            "artis 3d": "Froshski"
+            },
+            {
+            "id": 2,
+            "nama_produk": "Aseet 3D Smartphone Keren",
+            "harga": 5000000,
+            "lokasi": "Froshski"
+            
+            },
+            {
+            "id": 3,
+            "nama_produk": "Aseet 3D Kamera DSLR",
+            "harga": 8000000,
+            "lokasi": "Froshski"
+            
+            },
+            {
+            "id": 4,
+            "nama_produk": "Aseet 3D Sepatu Lari",
+            "harga": 1200000,
+            "lokasi": "Froshski"
+            
+            },
+            {
+            "id": 5,
+            "nama_produk": "Aseet 3D Tas Ransel",
+            "harga": 500000,
+            "lokasi": "Froshski"
+            }
+  ]
+}
